@@ -1,0 +1,15 @@
+D:\4ис3 новиков костыгова\C#\entity\obj\Debug\entity.csproj.AssemblyReference.cache
+D:\4ис3 новиков костыгова\C#\entity\obj\Debug\entity.Form1.resources
+D:\4ис3 новиков костыгова\C#\entity\obj\Debug\entity.Properties.Resources.resources
+D:\4ис3 новиков костыгова\C#\entity\obj\Debug\entity.csproj.GenerateResource.cache
+D:\4ис3 новиков костыгова\C#\entity\obj\Debug\entity.csproj.CoreCompileInputs.cache
+D:\4ис3 новиков костыгова\C#\entity\bin\Debug\entity.exe.config
+D:\4ис3 новиков костыгова\C#\entity\bin\Debug\entity.exe
+D:\4ис3 новиков костыгова\C#\entity\bin\Debug\entity.pdb
+D:\4ис3 новиков костыгова\C#\entity\bin\Debug\EntityFramework.dll
+D:\4ис3 новиков костыгова\C#\entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\4ис3 новиков костыгова\C#\entity\bin\Debug\EntityFramework.xml
+D:\4ис3 новиков костыгова\C#\entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\4ис3 новиков костыгова\C#\entity\obj\Debug\entity.csproj.CopyComplete
+D:\4ис3 новиков костыгова\C#\entity\obj\Debug\entity.exe
+D:\4ис3 новиков костыгова\C#\entity\obj\Debug\entity.pdb

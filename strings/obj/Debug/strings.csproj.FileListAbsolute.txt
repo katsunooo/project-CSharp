@@ -1,0 +1,10 @@
+D:\4ис3 новиков костыгова\C#\strings\bin\Debug\strings.exe.config
+D:\4ис3 новиков костыгова\C#\strings\bin\Debug\strings.exe
+D:\4ис3 новиков костыгова\C#\strings\bin\Debug\strings.pdb
+D:\4ис3 новиков костыгова\C#\strings\obj\Debug\strings.csproj.AssemblyReference.cache
+D:\4ис3 новиков костыгова\C#\strings\obj\Debug\strings.Form1.resources
+D:\4ис3 новиков костыгова\C#\strings\obj\Debug\strings.Properties.Resources.resources
+D:\4ис3 новиков костыгова\C#\strings\obj\Debug\strings.csproj.GenerateResource.cache
+D:\4ис3 новиков костыгова\C#\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+D:\4ис3 новиков костыгова\C#\strings\obj\Debug\strings.exe
+D:\4ис3 новиков костыгова\C#\strings\obj\Debug\strings.pdb

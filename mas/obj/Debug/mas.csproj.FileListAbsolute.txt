@@ -1,0 +1,10 @@
+D:\3ис3 новиков костыгова\C#\mas\bin\Debug\mas.exe.config
+D:\3ис3 новиков костыгова\C#\mas\bin\Debug\mas.exe
+D:\3ис3 новиков костыгова\C#\mas\bin\Debug\mas.pdb
+D:\3ис3 новиков костыгова\C#\mas\obj\Debug\mas.csproj.AssemblyReference.cache
+D:\3ис3 новиков костыгова\C#\mas\obj\Debug\mas.Form1.resources
+D:\3ис3 новиков костыгова\C#\mas\obj\Debug\mas.Properties.Resources.resources
+D:\3ис3 новиков костыгова\C#\mas\obj\Debug\mas.csproj.GenerateResource.cache
+D:\3ис3 новиков костыгова\C#\mas\obj\Debug\mas.csproj.CoreCompileInputs.cache
+D:\3ис3 новиков костыгова\C#\mas\obj\Debug\mas.exe
+D:\3ис3 новиков костыгова\C#\mas\obj\Debug\mas.pdb
